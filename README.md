@@ -1,9 +1,10 @@
 ## Olá! Eu sou o Paulo Cesar Jr 👋
 
+Entusiasta em constante evolução no mundo da programação. Atualmente, estou me dedicando aos estudos de Python, JavaScript, HTML e CSS para ampliar minhas habilidades e criar projetos. Sempre motivado pela vontade de aprender e me desenvolver, busco aplicar o que aprendo em soluções práticas e criativas.
 
 
 
-<h2 align="center">Estudando as tecnologias:</h2>
+<h2 align="center">Tecnologias:</h2>
 <div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
