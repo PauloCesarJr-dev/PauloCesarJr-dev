@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Paulo Cesar Jr 👋
 
-Entrei no mundo da programaçao através de uma curiosidade sobre a area que acabou virando algo que eu comecei a gostar mais e mais. Atualmente, estou me dedicando aos estudos de Python, JavaScript, HTML e CSS para ampliar minhas habilidades e criar projetos. Sempre motivado pela vontade de aprender e me desenvolver, busco aplicar o que aprendo em soluções práticas e criativas.
+Estou em busca de um emprego para financiar meus estudos em ADS(Análise e desenvolvimentos de Sistemas). Atualmente, estou me dedicando aos estudos de Python, JavaScript, HTML e CSS para ampliar minhas habilidades e criar projetos. Sempre motivado pela vontade de aprender e me desenvolver, busco aplicar o que aprendo em soluções práticas e criativas.
 
 
 
@@ -16,10 +16,6 @@ Entrei no mundo da programaçao através de uma curiosidade sobre a area que aca
 ##
 
 <div> 
-  <a href="https://www.youtube.com/@Hait-DBD" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/kreewhait/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/kreewhait" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/CQfAa9baZ2" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:paulocesarjr.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulocesarkh/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
