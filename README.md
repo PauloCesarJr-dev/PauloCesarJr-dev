@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Paulo Cesar Jr 👋
 
-Entusiasta em constante evolução no mundo da programação. Atualmente, estou me dedicando aos estudos de Python, JavaScript, HTML e CSS para ampliar minhas habilidades e criar projetos. Sempre motivado pela vontade de aprender e me desenvolver, busco aplicar o que aprendo em soluções práticas e criativas.
+Entrei no mundo da programaçao através de uma curiosidade sobre a area que acabou virando algo que eu comecei a gostar mais e mais. Atualmente, estou me dedicando aos estudos de Python, JavaScript, HTML e CSS para ampliar minhas habilidades e criar projetos. Sempre motivado pela vontade de aprender e me desenvolver, busco aplicar o que aprendo em soluções práticas e criativas.
 
 
 
