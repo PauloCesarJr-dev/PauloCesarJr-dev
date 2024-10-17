@@ -5,14 +5,10 @@
 <div align="center"> • Estudante iniciante de Python, <br> tenho bastante interesse em cursar Analise e desenvolvimento de sistemas <br> e atualmente trabalho no Armazem do Pao em Jardim Camburi, ES, como Atendente de Loja. </div>
 <br>
 <p align="center">
-  <a href="(https://www.linkedin.com/in/paulocesarkh)">
+  <a href="https://www.linkedin.com/in/paulocesarkh">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
-  <a href="https://www.instagram.com/kreewhait/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
-  </a>
-</p>
-
+<br>
 <h2 align="center">Estudando Tecnologias:</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,python,vscode&perline=14" />
