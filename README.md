@@ -2,7 +2,7 @@
 
 
 
-<div align="center"> • Estudante iniciante de Python, <br> tenho bastante interesse em cursar Analise e desenvolvimento de sistemas <br> e atualmente trabalho no Armazem do Pao em Jardim Camburi, ES, como Atendente de Loja. </div>
+<div align="center"> • Desenvolvedor Python, <br> tenho bastante interesse em cursar Analise e desenvolvimento de sistemas <br> e atualmente trabalho no Armazem do Pao em Jardim Camburi, ES, como Atendente de Loja. </div>
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/paulocesarkh">
